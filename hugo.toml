@@ -23,36 +23,30 @@ post = "/:title/"
 
 [[menu.main]]
 identifier = "search"
-name = "🔍"
+name = "Search"
 url = "search"
 weight = 1
 
 [[menu.main]]
 identifier = "home"
-name = "🏠"
+name = "Home"
 url = "/"
 weight = 2
 
 [[menu.main]]
 identifier = "posts"
-name = "📚"
+name = "Archive"
 url = "posts"
 weight = 3
 
 [[menu.main]]
 identifier = "tags"
-name = "🧩"
+name = "Tags"
 url = "tags"
 weight = 15
 
 [[menu.main]]
-identifier = "archives"
-name = "⏱️"
-url = "archives/"
-weight = 20
-
-[[menu.main]]
-identifier = "about"
+identifier = "About"
 name = "关于"
 url = "about"
 weight = 50
@@ -81,7 +75,7 @@ ShowToc = true
 TocOpen = true
 extendCodeBackground = false
 comments = true
-StartYear = 2_020
+StartYear = 2024
 FilingNo = "填写自己的备案号"
 PublicSecurityIconLink = "填自己的公安图标链接"
 PublicNetworkSecurity = "填自己的公网安备"
@@ -91,7 +85,7 @@ Alipay = "img/alipay.png"
 
 [params.profileMode]
 enabled = true
-title = "(〃'▽'〃)"
+title = "Welcome to my life."
 imageUrl = "img/Q.gif"
 imageWidth = 150
 imageHeight = 150
